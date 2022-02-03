@@ -1,6 +1,6 @@
 # Drought-Monitor
 
-This repository includes all my notebooks and data from (U.S. Drought Monitor)[https://droughtmonitor.unl.edu/] that I used to visualize Spread of Drought in U.S.
+This repository includes all my notebooks and data from [U.S. Drought Monitor](https://droughtmonitor.unl.edu/) that I used to visualize Spread of Drought in U.S.
 
 
 To get started, clone this repository with ```git clone https://github.com/rezw4n/Drought-Monitor.git```
