@@ -25,4 +25,4 @@ I would suggest to use a new conda environment and install the libraries as Geop
 ```conda install --channel conda-forge geopandas``` //This should install all the required packages including gdal, matplotlib, pandas etc.\
 ```conda install -c conda-forge jupyterlab``` // For installing Jupyter Lab
 
-Now just open the Jupyter Lab instance with ```jupyter lab``` in the anaconda prompt and play around with the notebook.
+Now just open a Jupyter Lab instance with ```jupyter lab``` in the anaconda prompt and play around with the notebook.
