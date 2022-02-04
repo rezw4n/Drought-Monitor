@@ -2,6 +2,7 @@
 
 This repository includes all my notebooks and data from [U.S. Drought Monitor](https://droughtmonitor.unl.edu/) that I used to visualize Spread of Drought in U.S.
 
+![Drought Severity in USA](https://raw.githubusercontent.com/rezw4n/Drought-Monitor/master/Plots/USDM.gif)
 
 To get started, clone this repository with ```git clone https://github.com/rezw4n/Drought-Monitor.git```
 
@@ -9,7 +10,7 @@ To get started, clone this repository with ```git clone https://github.com/rezw4
 
 # Requirements
 
-```Geopandas```, ```Pandas``` and ```Matplotlib``` library is required to run the notebook.
+```Geopandas```, ```Pandas``` and ```Matplotlib``` library is required to run the notebook.  
 
 # Setting up
 
@@ -27,5 +28,4 @@ I would suggest to use a new conda environment and install the libraries as Geop
 
 Now just open a Jupyter Lab instance with ```jupyter lab``` in the anaconda prompt and play around with the notebook.  
 
-Later I combined all the plots into a gif file with the Pillow library. Here's the output:
-![Drought Severity in USA](https://raw.githubusercontent.com/rezw4n/Drought-Monitor/master/Plots/USDM.gif)
+Later I combined all the plots into a gif file with the Pillow library, added title and legend.
